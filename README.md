@@ -1,2 +1,7 @@
 # hello-world
-This is a short description.
+
+
+Hi. My name is Jackson. I've got the dankest memes.
+
+Python and Linux is how I roll.
+
